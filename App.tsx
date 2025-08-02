@@ -65,7 +65,7 @@ const SurveyApp: React.FC = () => {
                 <header className="text-center mb-8">
                     <div className="flex items-center justify-center mb-4">
                         <img 
-                        src="./components/assests/NSS.png" 
+                        src="https://i.ibb.co/yFydKtYS/be8992a0-6df3-4931-8c70-c1273a0f500e.png" 
                         alt="NSS Logo" 
                         className="h-16 w-16 sm:h-20 sm:w-20 object-contain rounded-full"
                     />
