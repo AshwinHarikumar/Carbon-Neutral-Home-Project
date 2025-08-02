@@ -1,0 +1,8 @@
+{
+  "name": "Carbon Neutral Home Project",
+  "description": "A digital survey for the Carbon Neutral Home Project to assess energy performance and receive AI-powered saving suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
